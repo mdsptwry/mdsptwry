@@ -1,5 +1,5 @@
 ## Hi there 👋 This is Md
-Welcome to my GitHub. Feel to browse through some of my projects. 
+Welcome to my GitHub! Feel to browse through my projects. 
 <!--
 **mdsptwry/mdsptwry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
